@@ -31,7 +31,7 @@ src Folder:
         scearnios 
 - test_functions: a file containing all of the test functions for the 
       power and size simualtion function
-- Tables:Figues: a file containing code required to develop tables/figures for 
+- TablesFigues: a file containing code required to develop tables/figures for 
       report 
 
 results Folder: 
