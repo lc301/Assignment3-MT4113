@@ -168,3 +168,5 @@ sim_fn_corr_pow(5, dat = new_temp)
 dev.off()
 
 par(mfrow = c(1,1))
+
+
