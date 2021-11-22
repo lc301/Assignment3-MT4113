@@ -1,4 +1,4 @@
-source("Power & Size Sim Fn.R")
+source("src/Power & Size Sim Fn.R")
 
 # Test Functions 
 
